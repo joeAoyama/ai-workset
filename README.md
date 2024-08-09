@@ -6,7 +6,7 @@
  - webui
  - 
 # comfy工作流
-1. [基础首尾帧](comfy/基础首尾帧.json)
+1. [基础首尾帧](comfy/基础首尾帧.json) [Tooncrafter](https://github.com/AIGODLIKE/ComfyUI-ToonCrafter/tree/main/ToonCrafter)
 2. 2
 3. 3
 
